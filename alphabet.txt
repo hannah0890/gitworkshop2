@@ -1,3 +1,5 @@
+The alphabet song
+
 ABCDEFG
 HIJK
 LMNOP
@@ -6,5 +8,8 @@ WXY and Z
 TUV
 Now I know my ABC's
 Next time wont you sing with me
+<<<<<<< HEAD
 
 ... The end
+=======
+>>>>>>> 0b4998bc2918aa0f7197c076511b62a44d0fde9c
